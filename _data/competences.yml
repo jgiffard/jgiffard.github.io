@@ -1,0 +1,23 @@
+- nom: Javascript
+  pourcent: 65
+  
+- nom: HTML
+  pourcent: 85
+  
+- nom: CSS
+  pourcent: 80
+  
+- nom: PHP
+  pourcent: 65
+
+- nom: C#
+  pourcent: 40
+  
+- nom: Asp.net
+  pourcent: 50
+  
+- nom: Powershell
+  pourcent: 80
+  
+- nom: Java
+  pourcent: 40

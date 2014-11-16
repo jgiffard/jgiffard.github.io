@@ -1,0 +1,15 @@
+# Site settings
+title: Julien Giffard
+email: julien.giffard@gmail.com
+description: "Développeur Web à Toulouse"
+author: "Julien Giffard"
+headTitle: "Julien Giffard : Développeur Javascript sur Toulouse"
+metaDescription: "Découvrez mon CV de développeur Javascript full-stack sur Toulouse, Haute-Garonne (31)."
+baseurl: ""
+url: ""
+# Build settings
+markdown: kramdown
+permalink: pretty
+exclude:
+- package.json
+- README.md

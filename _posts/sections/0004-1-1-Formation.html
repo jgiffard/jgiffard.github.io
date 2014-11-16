@@ -1,0 +1,29 @@
+---
+htmlId: 'formation'
+tags: ['sections']
+navHidden: false
+---
+<div class="col-sm-10 col-sm-offset-1">
+    <h1>Formation</h1>
+    <ul class="timeline">
+        {% for forma in site.data.formation %}
+        <li class="timeline-inverted">
+            <div class="timeline-badge" style="background-color:#{{forma.couleur}}"><i class="fa fa-graduation-cap  fa-stack-1x"></i></div>
+            <div class="timeline-panel">
+                <div class="timeline-heading">
+                    <h4 class="timeline-title">{{forma.diplome}}</h4>
+                    <p>
+                        <small class="text-muted expDate"><i class="glyphicon glyphicon-time"></i> {{forma.date}}</small>
+                        <small class="text-muted"><i class="glyphicon glyphicon-map-marker"></i> {{forma.ecole}}</small>
+                    </p>
+                </div>
+                <div class="timeline-body">
+                    {% for carac in forma.caracteristiques %}
+                        <p><i class="fa fa-chevron-right text-muted"></i> {{carac}}</p>
+                    {% endfor %}
+                </div>
+            </div>
+        </li>
+        {% endfor %}
+    </ul>
+</div>

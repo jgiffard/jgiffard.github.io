@@ -1,0 +1,24 @@
+- diplome: Ingénieur Informatique et Réseaux
+  date: 2011 - 2014
+  ecole: 3IL Rodez (12)
+  caracteristiques:
+    - Formation réalisée en apprentissage
+    - Informatique <p class=" marge-20"><i class="fa fa-long-arrow-right"></i> Languages C, Java, PHP, HTML, CSS</p><p class=" marge-20"><i class="fa fa-long-arrow-right"></i> AOO, POO, UML, Merise, Scrum, RAD</p><p class=" marge-20"><i class="fa fa-long-arrow-right"></i> Gestion de projet</p><p class=" marge-20"><i class="fa fa-long-arrow-right"></i> Système d'exploitation Unix</p><p class=" marge-20"><i class="fa fa-long-arrow-right"></i> Base de données mySQL et Oracle</p>
+    - Projets<p class=" marge-20"><i class="fa fa-long-arrow-right"></i> Site Web de gestion d'auto-école</p><p class=" marge-20"><i class="fa fa-long-arrow-right"></i> Site Web gallerie d'art</p><p class=" marge-20"><i class="fa fa-long-arrow-right"></i> Application Java de gestion des élèves de 3iL</p>
+  couleur: E14D4C
+
+- diplome: DUT Réseaux et Télécoms
+  date: 2009 - 2011
+  ecole: IUT de Blagnac (31)
+  caracteristiques:
+    - Informatique <p class=" marge-20"><i class="fa fa-long-arrow-right"></i>Systèmes d’exploitation, serveurs WEB et FTP (Windows 2000, 2003, 2008, CentOS et Ubuntu)</p><p class=" marge-20"><i class="fa fa-long-arrow-right"></i> Programmation en C, Java, HTML, PHP et Shell Unix</p><p class=" marge-20"><i class="fa fa-long-arrow-right"></i> Administration de bases de données (Oracle, SQL*Plus, PL/SQL, MS Acces et My SQL)
+    - Réseaux </p><p class=" marge-20"><i class="fa fa-long-arrow-right"></i> Installation et mise en oeuvre de serveurs Windows 2000, 2003 et 2008</p><p class=" marge-20"><i class="fa fa-long-arrow-right"></i> Configuration et administration d'un réseau Linux (CentOS</p><p class=" marge-20"><i class="fa fa-long-arrow-right"></i> Paramétrage de routeurs Cisco, Switch (VLAN), Routage statique et dynamique</p><p class=" marge-20"><i class="fa fa-long-arrow-right"></i> Analyse de protocole (Wireshark)
+    - Télécommunications</p><p class=" marge-20"><i class="fa fa-long-arrow-right"></i> modulation AM/FM, numérique pour la téléphonie MIC (PCM) et modulation delta</p><p class=" marge-20"><i class="fa fa-long-arrow-right"></i> Autocommutateur Alcatel Omni PCX Office, Bornes DECT, ToIP (iPBX Asterisk),ADSL et des notions de PDH/SDH</p>
+  couleur: 2B6A94
+
+- diplome: Bac STI génie électrotechnique
+  date: 2009
+  ecole: Lycée Pierre Paul Riquet, St-Orens (31)
+  caracteristiques: 
+    - Mention Bien
+  couleur: 14943A

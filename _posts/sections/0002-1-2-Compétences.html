@@ -1,0 +1,72 @@
+---
+htmlId: 'competences'
+tags: ['sections']
+navHidden: false
+---
+<div class="col-sm-10 col-sm-offset-1">
+    <h1>Compétences</h1>
+</div>
+<div class="col-sm-10 col-sm-offset-1">
+    <h3>Programmation</h3>
+</div>
+{% for comp in site.data.competences %}
+<div class="col-sm-4 col-sm-offset-1">
+    <div class="col-sm-4 compLabel">{{comp.nom}}</div>
+    <div class="progress">
+        <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="{{comp.pourcent}}" aria-valuemin="0" aria-valuemax="100" style="width: {{comp.pourcent}}%;">
+            <span class="sr-only">{{comp.pourcent}}% Complete</span>
+        </div>
+    </div>
+</div>
+{% endfor %}
+<div class="col-sm-10 col-sm-offset-1">
+    <h3>EDI et logiciels</h3>
+</div>
+{% for comp in site.data.logiciels %}
+<div class="col-sm-4 col-sm-offset-1">
+    <div class="col-sm-4 compLabel">{{comp.nom}}</div>
+    <div class="progress">
+        <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="{{comp.pourcent}}" aria-valuemin="0" aria-valuemax="100" style="width: {{comp.pourcent}}%;">
+            <span class="sr-only">{{comp.pourcent}}% Complete</span>
+        </div>
+    </div>
+</div>
+{% endfor %}
+
+<div class="col-sm-10 col-sm-offset-1">
+    <h3>Autres</h3>
+    {% for tag in site.data.tags %}
+    <div class="tag">{{tag.nom}}</div>
+    {% endfor %}
+</div>
+
+
+
+
+<div class="col-sm-10 col-sm-offset-1">
+    <h3>Langues</h3>
+</div>
+<div class="col-sm-4 col-sm-offset-1">
+    <div class="col-sm-4 compLabel">
+        Anglais
+    </div>
+    <div class="progress bot-10">
+        <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 75%;">
+            <span class="sr-only">75% Complete</span>
+        </div>
+    </div>
+    <div class="col-sm-6 compLabel">
+        <small><i>Score de 890 au <a href="http://www.etsglobal.org/Fr/Fre/content/download/1154/15454/version/5/file/MAR004_Correlation_TOEIC_L%26R-fr.pdf" target="_blank" class="white">TOEIC</a></i></small>
+    </div>
+</div>
+<div class="col-sm-4 col-sm-offset-1">
+    <div class="col-sm-4 compLabel">Espagnol</div>
+    <div class="progress bot-10">
+        <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100" style="width: 25%;">
+            <span class="sr-only">25% Complete</span>
+        </div>
+    </div>
+    <div class="col-sm-6 compLabel">
+        <small><i>Niveau scolaire</i></small>
+    </div>
+</div>
