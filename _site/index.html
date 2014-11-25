@@ -37,6 +37,16 @@
         <!--End of Zopim Live Chat Script-->
     </head>
     <body>
+        <div id="fb-root"></div>
+<script>
+    (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
         <div id="navbar" class="navbar navbar-default navbar-fixed-top noselect" role="navigation">
     <div class="container">
         <div class="navbar-header">
@@ -106,7 +116,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-4 col-sm-offset-1 imgprofil">
-    <img src="/images/julien-giffard-400x400.png" class="img-circle img-responsive" width="250" height="250" alt="Photo de profil - Julien Giffard"></img> 
+    <img src="/images/julien-giffard-400x400.png" class="img-circle img-responsive" width="250" height="250" alt="Photo de profil - Julien Giffard"></img>
 </div>
 <div class="col-sm-6 presentation">   
     <h4>Bonjour,</h4>
@@ -116,9 +126,10 @@
     <p>
         Je vous propose de mettre mes compétences à votre service et vous invite à consulter mon CV. Si mon profil vous intéresse, n'hésitez pas à me contacter.
     </p>
-    <div class="icon-group">  
+    <div class="icon-group"> 
         <a class="icon dark-grey" href="files/CV-Julien-Giffard.pdf" target="_blank"><i class="fa fa-file-pdf-o fa-3x dark-grey"></i><br/>Mon CV</a>
         <a class="icon dark-grey" href="/#contact"><i class="fa fa-envelope-o fa-3x dark-grey"></i><br/>Contact</a>
+        <div class="fb-like icon" data-href="http://www.juliengiffard.com/" data-width="50" data-layout="box_count" data-action="recommend" data-show-faces="true" data-share="true"></div>
     </div>
 </div>
 
@@ -507,9 +518,11 @@
 </div>
 <div class="col-sm-5  col-sm-offset-1 icon-group">
     <a href="http://fr.linkedin.com/pub/julien-giffard/a0/5b1/b14/" target="_blank" class="icon white"><i class="fa fa-linkedin fa-3x"></i></a>
-    <a href="http://fr.viadeo.com/fr" target="_blank" class="icon white"><i class="genericon medium-icon genericon-viadeo"></i></a>
-    <a href="https://plus.google.com/+JulienGIFFARD" target="_blank" class="icon white"><i class="fa fa-google-plus fa-3x"></i></a><br/>
-    <a class="icon white"><i class="fa fa-twitter fa-3x"></i></a>
+    <a href="http://www.viadeo.com/fr/profile/julien.giffard1" target="_blank" class="icon white"><i class="genericon medium-icon genericon-viadeo"></i></a>
+    <a href="https://plus.google.com/+JulienGIFFARD" target="_blank" class="icon white"><i class="fa fa-google-plus fa-3x"></i></a>
+    <!---
+<a class="icon white"><i class="fa fa-twitter fa-3x"></i></a>
+-->
     <a class="icon white" href="https://github.com/jgiffard" target="_blank"><i class="fa fa-github  fa-3x"></i></a>
 </div>
 <div class="col-sm-10 col-sm-offset-1 copyright">

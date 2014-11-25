@@ -37,6 +37,7 @@
         <!--End of Zopim Live Chat Script-->
     </head>
     <body>
+        {% include facebook.html %}
         {% include navigation.html %}
         {% for sec in site.tags.sections reversed %}
         <section id="{{ sec.htmlId }}">
