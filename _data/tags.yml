@@ -1,14 +1,18 @@
+- nom: Angular.js
+- nom: ionic
+- nom: MongoDB
+- nom: Zend Framework
 - nom: JQuery
 - nom: Bootstrap
 - nom: Grunt.js
+- nom: Gulp
 - nom: Intern
-- nom: Resemble.js
 - nom: Express.js
+- nom: Charts.js
 - nom: Q (kriskowal)
 - nom: Jekyll
 - nom: Dojo
 - nom: AMD
-- nom: Hoxy
 - nom: Android SDK
 - nom: Hudson/Jenkins
 - nom: Selenium
@@ -16,8 +20,4 @@
 - nom: HP Qality Center
 - nom: Git
 - nom: SVN
-- nom: RedHat
-- nom: WDCore
-- nom: JSON
-- nom: XML
 - nom: SQL
