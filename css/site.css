@@ -1,4 +1,4 @@
-body { 
+body {
     font-family: 'Droid Sans';
     font-size: 16px;
     font-weight: 500;
@@ -35,18 +35,18 @@ h3 {
 }
 
 .dark-grey {
-    color:#777;   
+    color:#777;
 }
 .dark-grey:hover {
-    color:#aaa;  
+    color:#aaa;
 }
 
 .white {
-    color:#fff;   
+    color:#fff;
 }
 
 .white:hover {
-    color:#ccc;   
+    color:#ccc;
 }
 
 @media (max-width:739px) {
@@ -117,7 +117,7 @@ h3 {
 
 #title {
     height:100%;
-    background-image: url("/images/front-image2-1024x1024.jpg");
+    background-image: url("../images/front-image2-1024x1024.jpg");
     background-attachment: fixed;
     background-size: cover;
 }
@@ -139,19 +139,19 @@ h3 {
 
 #competences, #formation  {
     background-color: #3498DB;
-    padding-top: 50px; 
+    padding-top: 50px;
     padding-bottom: 50px;
 }
 
 #presentation, #experiences {
     background-color: #ddd;
-    padding-top: 50px; 
-    padding-bottom: 50px;   
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 #contact {
     background-color: #2c3d51;
-    padding-top: 50px; 
+    padding-top: 50px;
     padding-bottom: 50px;
     color: #fff;
 }
@@ -161,7 +161,7 @@ h3 {
 }
 
 .imgprofil {
-    margin-top:50px;   
+    margin-top:50px;
 }
 
 .presentation {
@@ -208,15 +208,15 @@ h3 {
 }
 
 .marge-20 {
-    margin-left:20px;   
+    margin-left:20px;
 }
 
 .top-50 {
-    margin-top:50px;   
+    margin-top:50px;
 }
 
 .middle {
- margin:6% 0;
+    margin:6% 0;
 }
 .noselect {
     -webkit-touch-callout: none;
@@ -420,9 +420,9 @@ h3 {
     font-family: 'Genericons';
     src: url('font/genericons-regular-webfont.eot');
     src: url('font/genericons-regular-webfont.eot?#iefix') format('embedded-opentype'),
-        url('font/genericons-regular-webfont.woff') format('woff'),
-        url('font/genericons-regular-webfont.ttf') format('truetype'),
-        url('font/genericons-regular-webfont.svg#genericonsregular') format('svg');
+    url('font/genericons-regular-webfont.woff') format('woff'),
+    url('font/genericons-regular-webfont.ttf') format('truetype'),
+    url('font/genericons-regular-webfont.svg#genericonsregular') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -431,7 +431,7 @@ h3 {
 .genericon-viadeo {
 
     font-size: 48px;
-    height: 42px;			
+    height: 42px;
     width: 48px;
     vertical-align:bottom;
 }
@@ -461,14 +461,14 @@ h3 {
 .navbar-default .navbar-nav > li > a:focus {
     color: #ccc;
 }
-.navbar-default .navbar-nav > .active > a, 
-.navbar-default .navbar-nav > .active > a:hover, 
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
     color: #ccc;
     background-color: #2c3d51;
 }
-.navbar-default .navbar-nav > .open > a, 
-.navbar-default .navbar-nav > .open > a:hover, 
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
     color: #ccc;
     background-color: #2c3d51;
@@ -483,8 +483,8 @@ h3 {
     border-top-color: #333;
     border-bottom-color: #333;
 }
-.navbar-default .navbar-nav > .open > a .caret, 
-.navbar-default .navbar-nav > .open > a:hover .caret, 
+.navbar-default .navbar-nav > .open > a .caret,
+.navbar-default .navbar-nav > .open > a:hover .caret,
 .navbar-default .navbar-nav > .open > a:focus .caret {
     border-top-color: #555;
     border-bottom-color: #555;
