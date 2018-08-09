@@ -13,3 +13,7 @@ permalink: pretty
 exclude:
 - package.json
 - README.md
+
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-leap-day
