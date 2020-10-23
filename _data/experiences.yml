@@ -2,7 +2,8 @@
   date: décembre 2014 à aujourd'hui
   lieu: <a href="https://goo.gl/maps/Nyvdo" target="_blank">Toulouse (31)</a>
   travail: 
-    - Maintenance et amélioration d'un comparateur de mutuelles <br/><i class="fa fa-long-arrow-right marge-20 "></i> Angular.js côté Front, API en PHP (zend framework), base de données en MongoDB.
+    - Maintenance et amélioration d'un comparateur de mutuelles <br/><i class="fa fa-long-arrow-right marge-20 "></i> Angular côté Front, API en Node.js, base de données en MongoDB.
+    - Mise à jour et amélioration d'un simulateur de déclaration de revenus en Angular.
     - Développement d'une interface web de paiement dynamique, avec un script générant une interface de paiement côté front qui propose différents moyens de paiements, et une API de gestion des paiements côté back. <br/><i class="fa fa-long-arrow-right marge-20 "></i> Script en Javascript pur, API en Express.js et base de données en MongoDB.
     - Développement d'une application mobile de révision du brevet des collèges avec API de récupération des documents de révision. <br/><i class="fa fa-long-arrow-right marge-20 "></i> Framework Ionic (Angular.js) pour l'application, API en Express.js, Bases de données en MongoDB et mysql.
   couleur: 14943A

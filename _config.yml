@@ -10,6 +10,16 @@ url: ""
 # Build settings
 markdown: kramdown
 permalink: pretty
+compress_html:
+  clippings: []
+  comments: ["<!-- ", " -->"]
+  endings: []
+  ignore:
+    envs: []
+  blanklines: false
+  profile: false
+  startings: []
 exclude:
 - package.json
 - README.md
+- .idea/

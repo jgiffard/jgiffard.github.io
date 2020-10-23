@@ -1,4 +1,6 @@
 - nom: Angular.js
+- nom: Angular 2+
+- nom: Docker
 - nom: ionic
 - nom: MongoDB
 - nom: Zend Framework
@@ -17,7 +19,6 @@
 - nom: Hudson/Jenkins
 - nom: Selenium
 - nom: JUnit
-- nom: HP Qality Center
 - nom: Git
 - nom: SVN
 - nom: SQL
