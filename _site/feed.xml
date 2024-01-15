@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-01-14T20:47:52+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Julien Giffard</title><subtitle>Développeur Web Fullstack sur Toulouse</subtitle><author><name>Julien Giffard</name></author><entry><title type="html">Contact</title><link href="http://localhost:4000/0005/01/01/Contact/" rel="alternate" type="text/html" title="Contact" /><published>0005-01-01T00:00:00+01:00</published><updated>0005-01-01T00:00:00+01:00</updated><id>http://localhost:4000/0005/01/01/Contact</id><content type="html" xml:base="http://localhost:4000/0005/01/01/Contact/">&lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+    &lt;h1&gt;Contact&lt;/h1&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-5 col-sm-offset-1 &quot;&gt;
+    &lt;p class=&quot;marge-20 top-50&quot;&gt;&lt;i class=&quot;fa fa-envelope-o&quot;&gt;&lt;/i&gt; &lt;a class=&quot;white&quot; href=&quot;mailto:julien.giffard@gmail.com&quot;&gt;julien.giffard@gmail.com&lt;/a&gt;&lt;/p&gt;
+    &lt;p class=&quot;marge-20&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt; Toulouse&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-5  col-sm-offset-1 icon-group&quot;&gt;
+    &lt;a href=&quot;http://fr.linkedin.com/pub/julien-giffard/a0/5b1/b14/&quot; target=&quot;_blank&quot; class=&quot;icon white&quot;&gt;&lt;i class=&quot;fa fa-linkedin fa-3x&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;a href=&quot;http://www.viadeo.com/fr/profile/julien.giffard1&quot; target=&quot;_blank&quot; class=&quot;icon white&quot;&gt;&lt;i class=&quot;genericon medium-icon genericon-viadeo&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;a class=&quot;icon white&quot; href=&quot;https://github.com/jgiffard&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-github  fa-3x&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-10 col-sm-offset-1 copyright&quot;&gt;
+    Copyright © 2014 - 2020 Julien Giffard
+&lt;/div&gt;</content><author><name>Julien Giffard</name></author><category term="sections" /><summary type="html">Contact julien.giffard@gmail.com Toulouse Copyright © 2014 - 2020 Julien Giffard</summary></entry><entry><title type="html">Formation</title><link href="http://localhost:4000/0004/01/01/Formation/" rel="alternate" type="text/html" title="Formation" /><published>0004-01-01T00:00:00+01:00</published><updated>0004-01-01T00:00:00+01:00</updated><id>http://localhost:4000/0004/01/01/Formation</id><content type="html" xml:base="http://localhost:4000/0004/01/01/Formation/">&lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+    &lt;h1&gt;Formation&lt;/h1&gt;
+    &lt;ul class=&quot;timeline&quot;&gt;
+        
+        &lt;li class=&quot;timeline-inverted&quot;&gt;
+            &lt;div class=&quot;timeline-badge&quot; style=&quot;background-color:#E14D4C&quot;&gt;&lt;i class=&quot;fa fa-graduation-cap  fa-stack-1x&quot;&gt;&lt;/i&gt;&lt;/div&gt;
+            &lt;div class=&quot;timeline-panel&quot;&gt;
+                &lt;div class=&quot;timeline-heading&quot;&gt;
+                    &lt;h4 class=&quot;timeline-title&quot;&gt;Ingénieur Informatique et Réseaux&lt;/h4&gt;
+                    &lt;p&gt;
+                        &lt;small class=&quot;text-muted expDate&quot;&gt;&lt;i class=&quot;glyphicon glyphicon-time&quot;&gt;&lt;/i&gt; 2011 - 2014&lt;/small&gt;
+                        &lt;small class=&quot;text-muted&quot;&gt;&lt;i class=&quot;glyphicon glyphicon-map-marker&quot;&gt;&lt;/i&gt; &lt;a href=&quot;https://goo.gl/maps/UiI3A&quot; target=&quot;_blank&quot;&gt;3IL Rodez (12)&lt;/a&gt;&lt;/small&gt;
+                    &lt;/p&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;timeline-body&quot;&gt;
+                    
+                        &lt;p&gt;&lt;i class=&quot;fa fa-chevron-right text-muted&quot;&gt;&lt;/i&gt; Formation réalisée en apprentissage&lt;/p&gt;
+                    
+                        &lt;p&gt;&lt;i class=&quot;fa fa-chevron-right text-muted&quot;&gt;&lt;/i&gt; Informatique &lt;p class=&quot; marge-20&quot;&gt;&lt;i class=&quot;fa fa-long-arrow-right&quot;&gt;&lt;/i&gt; Languages C, Java, PHP, HTML, CSS&lt;/p&gt;&lt;p class=&quot; marge-20&quot;&gt;&lt;i class=&quot;fa fa-long-arrow-right&quot;&gt;&lt;/i&gt; AOO, POO, UML, Merise, Scrum, RAD&lt;/p&gt;&lt;p class=&quot; marge-20&quot;&gt;&lt;i class=&quot;fa fa-long-arrow-right&quot;&gt;&lt;/i&gt; Gestion de projet&lt;/p&gt;&lt;p class=&quot; marge-20&quot;&gt;&lt;i class=&quot;fa fa-long-arrow-right&quot;&gt;&lt;/i&gt; Système d&apos;exploitation Unix&lt;/p&gt;&lt;p class=&quot; marge-20&quot;&gt;&lt;i class=&quot;fa fa-long-arrow-right&quot;&gt;&lt;/i&gt; Base de données mySQL et Oracle&lt;/p&gt;
+                    
+                        &lt;p&gt;&lt;i class=&quot;fa fa-chevron-right text-muted&quot;&gt;&lt;/i&gt; Projets&lt;p class=&quot; marge-20&quot;&gt;&lt;i class=&quot;fa fa-long-arrow-right&quot;&gt;&lt;/i&gt; Site Web de gestion d&apos;auto-école&lt;/p&gt;&lt;p class=&quot; marge-20&quot;&gt;&lt;i class=&quot;fa fa-long-arrow-right&quot;&gt;&lt;/i&gt; Site Web gallerie d&apos;art&lt;/p&gt;&lt;p class=&quot; marge-20&quot;&gt;&lt;i class=&quot;fa fa-long-arrow-right&quot;&gt;&lt;/i&gt; Application Java de gestion des élèves de 3iL&lt;/p&gt;
+                    
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/li&gt;
+        
+        &lt;li class=&quot;timeline-inverted&quot;&gt;
+            &lt;div class=&quot;timeline-badge&quot; style=&quot;background-color:#2B6A94&quot;&gt;&lt;i class=&quot;fa fa-graduation-cap  fa-stack-1x&quot;&gt;&lt;/i&gt;&lt;/div&gt;
+            &lt;div class=&quot;timeline-panel&quot;&gt;
+                &lt;div class=&quot;timeline-heading&quot;&gt;
+                    &lt;h4 class=&quot;timeline-title&quot;&gt;DUT Réseaux et Télécoms&lt;/h4&gt;
+                    &lt;p&gt;
+                        &lt;small class=&quot;text-muted expDate&quot;&gt;&lt;i class=&quot;glyphicon glyphicon-time&quot;&gt;&lt;/i&gt; 2009 - 2011&lt;/small&gt;
+                        &lt;small class=&quot;text-muted&quot;&gt;&lt;i class=&quot;glyphicon glyphicon-map-marker&quot;&gt;&lt;/i&gt; &lt;a href=&quot;https://goo.gl/maps/uTLb5&quot; target=&quot;_blank&quot;&gt;IUT de Blagnac (31)&lt;/a&gt;&lt;/small&gt;
+                    &lt;/p&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;timeline-body&quot;&gt;
+                    
+                        &lt;p&gt;&lt;i class=&quot;fa fa-chevron-right text-muted&quot;&gt;&lt;/i&gt; Informatique &lt;p class=&quot; marge-20&quot;&gt;&lt;i class=&quot;fa fa-long-arrow-right&quot;&gt;&lt;/i&gt;Systèmes d’exploitation, serveurs WEB et FTP (Windows 2000, 2003, 2008, CentOS et Ubuntu)&lt;/p&gt;&lt;p class=&quot; marge-20&quot;&gt;&lt;i class=&quot;fa fa-long-arrow-right&quot;&gt;&lt;/i&gt; Programmation en C, Java, HTML, PHP et Shell Unix&lt;/p&gt;&lt;p class=&quot; marge-20&quot;&gt;&lt;i class=&quot;fa fa-long-arrow-right&quot;&gt;&lt;/i&gt; Administration de bases de données (Oracle, SQL*Plus, PL/SQL, MS Acces et My SQL)&lt;/p&gt;
+                    
+                        &lt;p&gt;&lt;i class=&quot;fa fa-chevron-right text-muted&quot;&gt;&lt;/i&gt; Réseaux &lt;/p&gt;&lt;p class=&quot; marge-20&quot;&gt;&lt;i class=&quot;fa fa-long-arrow-right&quot;&gt;&lt;/i&gt; Installation et mise en oeuvre de serveurs Windows 2000, 2003 et 2008&lt;/p&gt;&lt;p class=&quot; marge-20&quot;&gt;&lt;i class=&quot;fa fa-long-arrow-right&quot;&gt;&lt;/i&gt; Configuration et administration d&apos;un réseau Linux (CentOS&lt;/p&gt;&lt;p class=&quot; marge-20&quot;&gt;&lt;i class=&quot;fa fa-long-arrow-right&quot;&gt;&lt;/i&gt; Paramétrage de routeurs Cisco, Switch (VLAN), Routage statique et dynamique&lt;/p&gt;&lt;p class=&quot; marge-20&quot;&gt;&lt;i class=&quot;fa fa-long-arrow-right&quot;&gt;&lt;/i&gt; Analyse de protocole (Wireshark)&lt;/p&gt;
+                    
+                        &lt;p&gt;&lt;i class=&quot;fa fa-chevron-right text-muted&quot;&gt;&lt;/i&gt; Télécommunications&lt;/p&gt;&lt;p class=&quot; marge-20&quot;&gt;&lt;i class=&quot;fa fa-long-arrow-right&quot;&gt;&lt;/i&gt; modulation AM/FM, numérique pour la téléphonie MIC (PCM) et modulation delta&lt;/p&gt;&lt;p class=&quot; marge-20&quot;&gt;&lt;i class=&quot;fa fa-long-arrow-right&quot;&gt;&lt;/i&gt; Autocommutateur Alcatel Omni PCX Office, Bornes DECT, ToIP (iPBX Asterisk),ADSL et des notions de PDH/SDH&lt;/p&gt;
+                    
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/li&gt;
+        
+        &lt;li class=&quot;timeline-inverted&quot;&gt;
+            &lt;div class=&quot;timeline-badge&quot; style=&quot;background-color:#14943A&quot;&gt;&lt;i class=&quot;fa fa-graduation-cap  fa-stack-1x&quot;&gt;&lt;/i&gt;&lt;/div&gt;
+            &lt;div class=&quot;timeline-panel&quot;&gt;
+                &lt;div class=&quot;timeline-heading&quot;&gt;
+                    &lt;h4 class=&quot;timeline-title&quot;&gt;Bac STI génie électrotechnique&lt;/h4&gt;
+                    &lt;p&gt;
+                        &lt;small class=&quot;text-muted expDate&quot;&gt;&lt;i class=&quot;glyphicon glyphicon-time&quot;&gt;&lt;/i&gt; 2009&lt;/small&gt;
+                        &lt;small class=&quot;text-muted&quot;&gt;&lt;i class=&quot;glyphicon glyphicon-map-marker&quot;&gt;&lt;/i&gt; &lt;a href=&quot;https://goo.gl/maps/3zaFQ&quot; target=&quot;_blank&quot;&gt;Lycée Pierre Paul Riquet, St-Orens (31)&lt;/a&gt;&lt;/small&gt;
+                    &lt;/p&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;timeline-body&quot;&gt;
+                    
+                        &lt;p&gt;&lt;i class=&quot;fa fa-chevron-right text-muted&quot;&gt;&lt;/i&gt; Mention Bien&lt;/p&gt;
+                    
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/li&gt;
+        
+    &lt;/ul&gt;
+&lt;/div&gt;</content><author><name>Julien Giffard</name></author><category term="sections" /><summary type="html">Formation Ingénieur Informatique et Réseaux 2011 - 2014 3IL Rodez (12) Formation réalisée en apprentissage Informatique Languages C, Java, PHP, HTML, CSS AOO, POO, UML, Merise, Scrum, RAD Gestion de projet Système d&apos;exploitation Unix Base de données mySQL et Oracle Projets Site Web de gestion d&apos;auto-école Site Web gallerie d&apos;art Application Java de gestion des élèves de 3iL DUT Réseaux et Télécoms 2009 - 2011 IUT de Blagnac (31) Informatique Systèmes d’exploitation, serveurs WEB et FTP (Windows 2000, 2003, 2008, CentOS et Ubuntu) Programmation en C, Java, HTML, PHP et Shell Unix Administration de bases de données (Oracle, SQL*Plus, PL/SQL, MS Acces et My SQL) Réseaux Installation et mise en oeuvre de serveurs Windows 2000, 2003 et 2008 Configuration et administration d&apos;un réseau Linux (CentOS Paramétrage de routeurs Cisco, Switch (VLAN), Routage statique et dynamique Analyse de protocole (Wireshark) Télécommunications modulation AM/FM, numérique pour la téléphonie MIC (PCM) et modulation delta Autocommutateur Alcatel Omni PCX Office, Bornes DECT, ToIP (iPBX Asterisk),ADSL et des notions de PDH/SDH Bac STI génie électrotechnique 2009 Lycée Pierre Paul Riquet, St-Orens (31) Mention Bien</summary></entry><entry><title type="html">Expériences</title><link href="http://localhost:4000/0003/01/01/Exp%C3%A9riences/" rel="alternate" type="text/html" title="Expériences" /><published>0003-01-01T00:00:00+01:00</published><updated>0003-01-01T00:00:00+01:00</updated><id>http://localhost:4000/0003/01/01/Exp%C3%A9riences</id><content type="html" xml:base="http://localhost:4000/0003/01/01/Exp%C3%A9riences/">&lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+    &lt;h1&gt;Expériences&lt;/h1&gt;
+    &lt;ul class=&quot;timeline&quot;&gt;
+        
+        &lt;li class=&quot;timeline-inverted&quot;&gt;
+            &lt;div class=&quot;timeline-badge&quot; style=&quot;background-color:#14943A&quot;&gt;&lt;i class=&quot;fa fa-briefcase&quot;&gt;&lt;/i&gt;&lt;/div&gt;
+            &lt;div class=&quot;timeline-panel&quot;&gt;
+                &lt;div class=&quot;timeline-heading&quot;&gt;
+                    &lt;h4 class=&quot; timeline-title&quot;&gt;Dispofi&lt;/h4&gt;
+                    &lt;p&gt;
+                        &lt;small class=&quot;text-muted expDate&quot;&gt;&lt;i class=&quot;glyphicon glyphicon-time&quot;&gt;&lt;/i&gt; décembre 2014 à aujourd&apos;hui&lt;/small&gt;
+                        &lt;small class=&quot;text-muted&quot;&gt;&lt;i class=&quot;glyphicon glyphicon-map-marker&quot;&gt;&lt;/i&gt; &lt;a href=&quot;https://goo.gl/maps/Nyvdo&quot; target=&quot;_blank&quot;&gt;Toulouse (31)&lt;/a&gt;&lt;/small&gt;
+                    &lt;/p&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;timeline-body&quot;&gt;
+                        
+                      &lt;p&gt;&lt;i class=&quot;fa fa-chevron-right text-muted&quot;&gt;&lt;/i&gt; Maintenance et amélioration d&apos;un comparateur de mutuelles &lt;br/&gt;&lt;i class=&quot;fa fa-long-arrow-right marge-20 &quot;&gt;&lt;/i&gt; Angular côté Front, API en Node.js, base de données en MongoDB.&lt;/p&gt;&lt;br/&gt;
+                        
+                      &lt;p&gt;&lt;i class=&quot;fa fa-chevron-right text-muted&quot;&gt;&lt;/i&gt; Mise à jour et amélioration d&apos;un simulateur de déclaration de revenus en Angular.&lt;/p&gt;&lt;br/&gt;
+                        
+                      &lt;p&gt;&lt;i class=&quot;fa fa-chevron-right text-muted&quot;&gt;&lt;/i&gt; Développement d&apos;une interface web de paiement dynamique, avec un script générant une interface de paiement côté front qui propose différents moyens de paiements, et une API de gestion des paiements côté back. &lt;br/&gt;&lt;i class=&quot;fa fa-long-arrow-right marge-20 &quot;&gt;&lt;/i&gt; Script en Javascript pur, API en Express.js et base de données en MongoDB.&lt;/p&gt;&lt;br/&gt;
+                        
+                      &lt;p&gt;&lt;i class=&quot;fa fa-chevron-right text-muted&quot;&gt;&lt;/i&gt; Développement d&apos;une application mobile de révision du brevet des collèges avec API de récupération des documents de révision. &lt;br/&gt;&lt;i class=&quot;fa fa-long-arrow-right marge-20 &quot;&gt;&lt;/i&gt; Framework Ionic (Angular.js) pour l&apos;application, API en Express.js, Bases de données en MongoDB et mysql.&lt;/p&gt;&lt;br/&gt;
+                        
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/li&gt;
+        
+        &lt;li class=&quot;timeline-inverted&quot;&gt;
+            &lt;div class=&quot;timeline-badge&quot; style=&quot;background-color:#FF7E3E&quot;&gt;&lt;i class=&quot;fa fa-briefcase&quot;&gt;&lt;/i&gt;&lt;/div&gt;
+            &lt;div class=&quot;timeline-panel&quot;&gt;
+                &lt;div class=&quot;timeline-heading&quot;&gt;
+                    &lt;h4 class=&quot; timeline-title&quot;&gt;Orange&lt;/h4&gt;
+                    &lt;p&gt;
+                        &lt;small class=&quot;text-muted expDate&quot;&gt;&lt;i class=&quot;glyphicon glyphicon-time&quot;&gt;&lt;/i&gt; 2011 - 2014&lt;/small&gt;
+                        &lt;small class=&quot;text-muted&quot;&gt;&lt;i class=&quot;glyphicon glyphicon-map-marker&quot;&gt;&lt;/i&gt; &lt;a href=&quot;https://goo.gl/maps/0nX8m&quot; target=&quot;_blank&quot;&gt;Blagnac (31)&lt;/a&gt;&lt;/small&gt;
+                    &lt;/p&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;timeline-body&quot;&gt;
+                        
+                      &lt;p&gt;&lt;i class=&quot;fa fa-chevron-right text-muted&quot;&gt;&lt;/i&gt; Développement et mise en place d&apos;un ensemble d&apos;outils de tests automatisés de non-régression du webmail des clients professionnels d&apos;Orange. Développée en Javascript, cette suite d&apos;outils comprend un runner de test de non-régression visuelle, un proxy de mock et un serveur de gestion du référentiel d&apos;image.&lt;br/&gt;&lt;i class=&quot;fa fa-long-arrow-right marge-20 &quot;&gt;&lt;/i&gt; Javascript, Intern, Dojo, Node.js, Express.js, Grunt.js, Resemble.js, HTML, CSS, JSON&lt;/p&gt;&lt;br/&gt;
+                        
+                      &lt;p&gt;&lt;i class=&quot;fa fa-chevron-right text-muted&quot;&gt;&lt;/i&gt; Étude et mise en place d’une plateforme d’automatisation de tests sur le webmail avec le Framework Selenium.&lt;br/&gt;&lt;i class=&quot;fa fa-long-arrow-right marge-20 &quot;&gt;&lt;/i&gt; Java, Eclipse, Hudson, Android SDK, XML.&lt;/p&gt;&lt;br/&gt;
+                        
+                      &lt;p&gt;&lt;i class=&quot;fa fa-chevron-right text-muted&quot;&gt;&lt;/i&gt; Conception et développement d’une webapp d’administration du PeoplePicker de SharePoint permettant de gérer l&apos;ajout ou la suppression de domaines Actives Directory. &lt;br/&gt;&lt;i class=&quot;fa fa-long-arrow-right marge-20 &quot;&gt;&lt;/i&gt; C#, Asp.net, Visual Studio.&lt;/p&gt;&lt;br/&gt;
+                        
+                      &lt;p&gt;&lt;i class=&quot;fa fa-chevron-right text-muted&quot;&gt;&lt;/i&gt; Développement d’un script de supervision du PeoplePicker afin de vérifier la connexion entre les serveurs Sharepoints et les domaines Active directory qui y sont reliés.&lt;br/&gt;&lt;i class=&quot;fa fa-long-arrow-right marge-20 &quot;&gt;&lt;/i&gt; Powershell, SQL Server.&lt;/p&gt;&lt;br/&gt;
+                        
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/li&gt;
+        
+        &lt;li class=&quot;timeline-inverted&quot;&gt;
+            &lt;div class=&quot;timeline-badge&quot; style=&quot;background-color:#2B6A94&quot;&gt;&lt;i class=&quot;fa fa-briefcase&quot;&gt;&lt;/i&gt;&lt;/div&gt;
+            &lt;div class=&quot;timeline-panel&quot;&gt;
+                &lt;div class=&quot;timeline-heading&quot;&gt;
+                    &lt;h4 class=&quot; timeline-title&quot;&gt;LAAS-CNRS&lt;/h4&gt;
+                    &lt;p&gt;
+                        &lt;small class=&quot;text-muted expDate&quot;&gt;&lt;i class=&quot;glyphicon glyphicon-time&quot;&gt;&lt;/i&gt; mars - juin 2011&lt;/small&gt;
+                        &lt;small class=&quot;text-muted&quot;&gt;&lt;i class=&quot;glyphicon glyphicon-map-marker&quot;&gt;&lt;/i&gt; &lt;a href=&quot;https://goo.gl/maps/BVSiF&quot; target=&quot;_blank&quot;&gt;Toulouse (31)&lt;/a&gt;&lt;/small&gt;
+                    &lt;/p&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;timeline-body&quot;&gt;
+                        
+                      &lt;p&gt;&lt;i class=&quot;fa fa-chevron-right text-muted&quot;&gt;&lt;/i&gt; Développement d’une interface Web de recherche multicritères en PHP permettant de rechercher les publications des chercheurs du laboratoire depuis leur site internet. &lt;br/&gt;&lt;i class=&quot;fa fa-long-arrow-right marge-20&quot;&gt;&lt;/i&gt; PHP, framework WDCore, HTML, CSS, JavaScript et SQL.&lt;/p&gt;&lt;br/&gt;
+                        
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/li&gt;
+        
+    &lt;/ul&gt;
+&lt;/div&gt;</content><author><name>Julien Giffard</name></author><category term="sections" /><summary type="html">Expériences Dispofi décembre 2014 à aujourd&apos;hui Toulouse (31) Maintenance et amélioration d&apos;un comparateur de mutuelles Angular côté Front, API en Node.js, base de données en MongoDB. Mise à jour et amélioration d&apos;un simulateur de déclaration de revenus en Angular. Développement d&apos;une interface web de paiement dynamique, avec un script générant une interface de paiement côté front qui propose différents moyens de paiements, et une API de gestion des paiements côté back. Script en Javascript pur, API en Express.js et base de données en MongoDB. Développement d&apos;une application mobile de révision du brevet des collèges avec API de récupération des documents de révision. Framework Ionic (Angular.js) pour l&apos;application, API en Express.js, Bases de données en MongoDB et mysql. Orange 2011 - 2014 Blagnac (31) Développement et mise en place d&apos;un ensemble d&apos;outils de tests automatisés de non-régression du webmail des clients professionnels d&apos;Orange. Développée en Javascript, cette suite d&apos;outils comprend un runner de test de non-régression visuelle, un proxy de mock et un serveur de gestion du référentiel d&apos;image. Javascript, Intern, Dojo, Node.js, Express.js, Grunt.js, Resemble.js, HTML, CSS, JSON Étude et mise en place d’une plateforme d’automatisation de tests sur le webmail avec le Framework Selenium. Java, Eclipse, Hudson, Android SDK, XML. Conception et développement d’une webapp d’administration du PeoplePicker de SharePoint permettant de gérer l&apos;ajout ou la suppression de domaines Actives Directory. C#, Asp.net, Visual Studio. Développement d’un script de supervision du PeoplePicker afin de vérifier la connexion entre les serveurs Sharepoints et les domaines Active directory qui y sont reliés. Powershell, SQL Server. LAAS-CNRS mars - juin 2011 Toulouse (31) Développement d’une interface Web de recherche multicritères en PHP permettant de rechercher les publications des chercheurs du laboratoire depuis leur site internet. PHP, framework WDCore, HTML, CSS, JavaScript et SQL.</summary></entry><entry><title type="html">Compétences</title><link href="http://localhost:4000/0002/01/02/Comp%C3%A9tences/" rel="alternate" type="text/html" title="Compétences" /><published>0002-01-02T00:00:00+01:00</published><updated>0002-01-02T00:00:00+01:00</updated><id>http://localhost:4000/0002/01/02/Comp%C3%A9tences</id><content type="html" xml:base="http://localhost:4000/0002/01/02/Comp%C3%A9tences/">&lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+    &lt;h1&gt;Compétences&lt;/h1&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+    &lt;h3&gt;Programmation&lt;/h3&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-sm-4 col-sm-offset-1&quot;&gt;
+    &lt;div class=&quot;col-sm-4 compLabel&quot;&gt;Javascript&lt;/div&gt;
+    &lt;div class=&quot;progress&quot;&gt;
+        &lt;div class=&quot;progress-bar progress-bar-success&quot; role=&quot;progressbar&quot; aria-valuenow=&quot;85&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;100&quot; style=&quot;width: 85%;&quot;&gt;
+            &lt;span class=&quot;sr-only&quot;&gt;85% Complete&lt;/span&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-sm-4 col-sm-offset-1&quot;&gt;
+    &lt;div class=&quot;col-sm-4 compLabel&quot;&gt;HTML&lt;/div&gt;
+    &lt;div class=&quot;progress&quot;&gt;
+        &lt;div class=&quot;progress-bar progress-bar-success&quot; role=&quot;progressbar&quot; aria-valuenow=&quot;100&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;100&quot; style=&quot;width: 100%;&quot;&gt;
+            &lt;span class=&quot;sr-only&quot;&gt;100% Complete&lt;/span&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-sm-4 col-sm-offset-1&quot;&gt;
+    &lt;div class=&quot;col-sm-4 compLabel&quot;&gt;CSS&lt;/div&gt;
+    &lt;div class=&quot;progress&quot;&gt;
+        &lt;div class=&quot;progress-bar progress-bar-success&quot; role=&quot;progressbar&quot; aria-valuenow=&quot;100&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;100&quot; style=&quot;width: 100%;&quot;&gt;
+            &lt;span class=&quot;sr-only&quot;&gt;100% Complete&lt;/span&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-sm-4 col-sm-offset-1&quot;&gt;
+    &lt;div class=&quot;col-sm-4 compLabel&quot;&gt;PHP&lt;/div&gt;
+    &lt;div class=&quot;progress&quot;&gt;
+        &lt;div class=&quot;progress-bar progress-bar-success&quot; role=&quot;progressbar&quot; aria-valuenow=&quot;65&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;100&quot; style=&quot;width: 65%;&quot;&gt;
+            &lt;span class=&quot;sr-only&quot;&gt;65% Complete&lt;/span&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-sm-4 col-sm-offset-1&quot;&gt;
+    &lt;div class=&quot;col-sm-4 compLabel&quot;&gt;C#&lt;/div&gt;
+    &lt;div class=&quot;progress&quot;&gt;
+        &lt;div class=&quot;progress-bar progress-bar-success&quot; role=&quot;progressbar&quot; aria-valuenow=&quot;60&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;100&quot; style=&quot;width: 60%;&quot;&gt;
+            &lt;span class=&quot;sr-only&quot;&gt;60% Complete&lt;/span&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-sm-4 col-sm-offset-1&quot;&gt;
+    &lt;div class=&quot;col-sm-4 compLabel&quot;&gt;Asp.net&lt;/div&gt;
+    &lt;div class=&quot;progress&quot;&gt;
+        &lt;div class=&quot;progress-bar progress-bar-success&quot; role=&quot;progressbar&quot; aria-valuenow=&quot;80&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;100&quot; style=&quot;width: 80%;&quot;&gt;
+            &lt;span class=&quot;sr-only&quot;&gt;80% Complete&lt;/span&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-sm-4 col-sm-offset-1&quot;&gt;
+    &lt;div class=&quot;col-sm-4 compLabel&quot;&gt;Powershell&lt;/div&gt;
+    &lt;div class=&quot;progress&quot;&gt;
+        &lt;div class=&quot;progress-bar progress-bar-success&quot; role=&quot;progressbar&quot; aria-valuenow=&quot;95&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;100&quot; style=&quot;width: 95%;&quot;&gt;
+            &lt;span class=&quot;sr-only&quot;&gt;95% Complete&lt;/span&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-sm-4 col-sm-offset-1&quot;&gt;
+    &lt;div class=&quot;col-sm-4 compLabel&quot;&gt;Java&lt;/div&gt;
+    &lt;div class=&quot;progress&quot;&gt;
+        &lt;div class=&quot;progress-bar progress-bar-success&quot; role=&quot;progressbar&quot; aria-valuenow=&quot;65&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;100&quot; style=&quot;width: 65%;&quot;&gt;
+            &lt;span class=&quot;sr-only&quot;&gt;65% Complete&lt;/span&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+    &lt;h3&gt;EDI et logiciels&lt;/h3&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-sm-4 col-sm-offset-1&quot;&gt;
+    &lt;div class=&quot;col-sm-4 compLabel&quot;&gt;PHPStorm&lt;/div&gt;
+    &lt;div class=&quot;progress&quot;&gt;
+        &lt;div class=&quot;progress-bar progress-bar-success&quot; role=&quot;progressbar&quot; aria-valuenow=&quot;90&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;100&quot; style=&quot;width: 90%;&quot;&gt;
+            &lt;span class=&quot;sr-only&quot;&gt;90% Complete&lt;/span&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-sm-4 col-sm-offset-1&quot;&gt;
+    &lt;div class=&quot;col-sm-4 compLabel&quot;&gt;Node.js&lt;/div&gt;
+    &lt;div class=&quot;progress&quot;&gt;
+        &lt;div class=&quot;progress-bar progress-bar-success&quot; role=&quot;progressbar&quot; aria-valuenow=&quot;85&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;100&quot; style=&quot;width: 85%;&quot;&gt;
+            &lt;span class=&quot;sr-only&quot;&gt;85% Complete&lt;/span&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-sm-4 col-sm-offset-1&quot;&gt;
+    &lt;div class=&quot;col-sm-4 compLabel&quot;&gt;Eclipse&lt;/div&gt;
+    &lt;div class=&quot;progress&quot;&gt;
+        &lt;div class=&quot;progress-bar progress-bar-success&quot; role=&quot;progressbar&quot; aria-valuenow=&quot;75&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;100&quot; style=&quot;width: 75%;&quot;&gt;
+            &lt;span class=&quot;sr-only&quot;&gt;75% Complete&lt;/span&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-sm-4 col-sm-offset-1&quot;&gt;
+    &lt;div class=&quot;col-sm-4 compLabel&quot;&gt;VisualStudio&lt;/div&gt;
+    &lt;div class=&quot;progress&quot;&gt;
+        &lt;div class=&quot;progress-bar progress-bar-success&quot; role=&quot;progressbar&quot; aria-valuenow=&quot;70&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;100&quot; style=&quot;width: 70%;&quot;&gt;
+            &lt;span class=&quot;sr-only&quot;&gt;70% Complete&lt;/span&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-sm-4 col-sm-offset-1&quot;&gt;
+    &lt;div class=&quot;col-sm-4 compLabel&quot;&gt;NetBeans&lt;/div&gt;
+    &lt;div class=&quot;progress&quot;&gt;
+        &lt;div class=&quot;progress-bar progress-bar-success&quot; role=&quot;progressbar&quot; aria-valuenow=&quot;65&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;100&quot; style=&quot;width: 65%;&quot;&gt;
+            &lt;span class=&quot;sr-only&quot;&gt;65% Complete&lt;/span&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-sm-4 col-sm-offset-1&quot;&gt;
+    &lt;div class=&quot;col-sm-4 compLabel&quot;&gt;Brackets&lt;/div&gt;
+    &lt;div class=&quot;progress&quot;&gt;
+        &lt;div class=&quot;progress-bar progress-bar-success&quot; role=&quot;progressbar&quot; aria-valuenow=&quot;100&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;100&quot; style=&quot;width: 100%;&quot;&gt;
+            &lt;span class=&quot;sr-only&quot;&gt;100% Complete&lt;/span&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-sm-4 col-sm-offset-1&quot;&gt;
+    &lt;div class=&quot;col-sm-4 compLabel&quot;&gt;Powershell IDE&lt;/div&gt;
+    &lt;div class=&quot;progress&quot;&gt;
+        &lt;div class=&quot;progress-bar progress-bar-success&quot; role=&quot;progressbar&quot; aria-valuenow=&quot;100&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;100&quot; style=&quot;width: 100%;&quot;&gt;
+            &lt;span class=&quot;sr-only&quot;&gt;100% Complete&lt;/span&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+    &lt;h3&gt;Autres&lt;/h3&gt;
+    
+    &lt;div class=&quot;tag&quot;&gt;Angular.js&lt;/div&gt;
+    
+    &lt;div class=&quot;tag&quot;&gt;Angular 2+&lt;/div&gt;
+    
+    &lt;div class=&quot;tag&quot;&gt;Docker&lt;/div&gt;
+    
+    &lt;div class=&quot;tag&quot;&gt;ionic&lt;/div&gt;
+    
+    &lt;div class=&quot;tag&quot;&gt;MongoDB&lt;/div&gt;
+    
+    &lt;div class=&quot;tag&quot;&gt;Zend Framework&lt;/div&gt;
+    
+    &lt;div class=&quot;tag&quot;&gt;JQuery&lt;/div&gt;
+    
+    &lt;div class=&quot;tag&quot;&gt;Bootstrap&lt;/div&gt;
+    
+    &lt;div class=&quot;tag&quot;&gt;Grunt.js&lt;/div&gt;
+    
+    &lt;div class=&quot;tag&quot;&gt;Gulp&lt;/div&gt;
+    
+    &lt;div class=&quot;tag&quot;&gt;Intern&lt;/div&gt;
+    
+    &lt;div class=&quot;tag&quot;&gt;Express.js&lt;/div&gt;
+    
+    &lt;div class=&quot;tag&quot;&gt;Charts.js&lt;/div&gt;
+    
+    &lt;div class=&quot;tag&quot;&gt;Q (kriskowal)&lt;/div&gt;
+    
+    &lt;div class=&quot;tag&quot;&gt;Jekyll&lt;/div&gt;
+    
+    &lt;div class=&quot;tag&quot;&gt;Dojo&lt;/div&gt;
+    
+    &lt;div class=&quot;tag&quot;&gt;AMD&lt;/div&gt;
+    
+    &lt;div class=&quot;tag&quot;&gt;Android SDK&lt;/div&gt;
+    
+    &lt;div class=&quot;tag&quot;&gt;Hudson/Jenkins&lt;/div&gt;
+    
+    &lt;div class=&quot;tag&quot;&gt;Selenium&lt;/div&gt;
+    
+    &lt;div class=&quot;tag&quot;&gt;JUnit&lt;/div&gt;
+    
+    &lt;div class=&quot;tag&quot;&gt;Git&lt;/div&gt;
+    
+    &lt;div class=&quot;tag&quot;&gt;SVN&lt;/div&gt;
+    
+    &lt;div class=&quot;tag&quot;&gt;SQL&lt;/div&gt;
+    
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+    &lt;h3&gt;Langues&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-4 col-sm-offset-1&quot;&gt;
+    &lt;div class=&quot;col-sm-4 compLabel&quot;&gt;
+        Anglais
+    &lt;/div&gt;
+    &lt;div class=&quot;progress bot-10&quot;&gt;
+        &lt;div class=&quot;progress-bar progress-bar-success&quot; role=&quot;progressbar&quot; aria-valuenow=&quot;75&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;100&quot; style=&quot;width: 75%;&quot;&gt;
+            &lt;span class=&quot;sr-only&quot;&gt;75% Complete&lt;/span&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-sm-6 compLabel&quot;&gt;
+        &lt;small&gt;&lt;i&gt;Score de 890 au &lt;a href=&quot;http://www.etsglobal.org/Fr/Fre/content/download/1154/15454/version/5/file/MAR004_Correlation_TOEIC_L%26R-fr.pdf&quot; target=&quot;_blank&quot; class=&quot;white&quot;&gt;TOEIC&lt;/a&gt;&lt;/i&gt;&lt;/small&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-4 col-sm-offset-1&quot;&gt;
+    &lt;div class=&quot;col-sm-4 compLabel&quot;&gt;Espagnol&lt;/div&gt;
+    &lt;div class=&quot;progress bot-10&quot;&gt;
+        &lt;div class=&quot;progress-bar progress-bar-success&quot; role=&quot;progressbar&quot; aria-valuenow=&quot;25&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;100&quot; style=&quot;width: 25%;&quot;&gt;
+            &lt;span class=&quot;sr-only&quot;&gt;25% Complete&lt;/span&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-sm-6 compLabel&quot;&gt;
+        &lt;small&gt;&lt;i&gt;Niveau scolaire&lt;/i&gt;&lt;/small&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content><author><name>Julien Giffard</name></author><category term="sections" /><summary type="html">Compétences Programmation Javascript 85% Complete HTML 100% Complete CSS 100% Complete PHP 65% Complete C# 60% Complete Asp.net 80% Complete Powershell 95% Complete Java 65% Complete EDI et logiciels PHPStorm 90% Complete Node.js 85% Complete Eclipse 75% Complete VisualStudio 70% Complete NetBeans 65% Complete Brackets 100% Complete Powershell IDE 100% Complete</summary></entry><entry><title type="html">Présentation</title><link href="http://localhost:4000/0002/01/01/Pr%C3%A9sentation/" rel="alternate" type="text/html" title="Présentation" /><published>0002-01-01T00:00:00+01:00</published><updated>0002-01-01T00:00:00+01:00</updated><id>http://localhost:4000/0002/01/01/Pr%C3%A9sentation</id><content type="html" xml:base="http://localhost:4000/0002/01/01/Pr%C3%A9sentation/">&lt;div class=&quot;col-sm-4 col-sm-offset-1 imgprofil&quot;&gt;
+    &lt;img src=&quot;images/julien-giffard-400x400.png&quot; class=&quot;img-circle img-responsive&quot; width=&quot;250&quot; height=&quot;250&quot; alt=&quot;Photo de profil - Julien Giffard&quot;/&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-6 presentation&quot;&gt;   
+    &lt;h4&gt;Bonjour,&lt;/h4&gt;
+    &lt;p&gt;
+        je suis Julien Giffard, diplômé d&apos;école d&apos;ingénieur en informatique. Riche de plus de 6 années d&apos;expérience, je suis actuellement développeur Javascript/Node.js à Toulouse.
+    &lt;/p&gt;
+    &lt;div class=&quot;icon-group&quot;&gt; 
+        &lt;a class=&quot;icon dark-grey&quot; href=&quot;/#contact&quot;&gt;&lt;i class=&quot;fa fa-envelope-o fa-3x dark-grey&quot;&gt;&lt;/i&gt;&lt;br/&gt;Contact&lt;/a&gt;
+&lt;!--        &lt;div class=&quot;fb-like icon&quot; data-href=&quot;http://www.juliengiffard.com/&quot; data-width=&quot;50&quot; data-layout=&quot;box_count&quot; data-action=&quot;recommend&quot; data-show-faces=&quot;true&quot; data-share=&quot;true&quot;&gt;&lt;/div&gt;--&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content><author><name>Julien Giffard</name></author><category term="sections" /><summary type="html">Bonjour, je suis Julien Giffard, diplômé d&apos;école d&apos;ingénieur en informatique. Riche de plus de 6 années d&apos;expérience, je suis actuellement développeur Javascript/Node.js à Toulouse. Contact</summary></entry><entry><title type="html">Accueil</title><link href="http://localhost:4000/0001/01/01/Accueil/" rel="alternate" type="text/html" title="Accueil" /><published>0001-01-01T00:00:00+01:00</published><updated>0001-01-01T00:00:00+01:00</updated><id>http://localhost:4000/0001/01/01/Accueil</id><content type="html" xml:base="http://localhost:4000/0001/01/01/Accueil/">&lt;div class=&quot;titlecontainer&quot;&gt;
+    &lt;div class=&quot;titlebox&quot;&gt;
+        &lt;h1 class=&quot;title&quot;&gt;&lt;span class=&quot;blue&quot;&gt;Julien Giffard&lt;/span&gt; | Développeur Web Fullstack sur Toulouse&lt;/h1&gt;
+        &lt;h1 class=&quot;subtitle&quot;&gt;Expérience significative en Javascript&lt;/h1&gt; 
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&quot;arrow&quot;&gt;
+    &lt;a href=&quot;#presentation&quot;&gt;
+        &lt;span class=&quot;fa-stack fa-2x&quot;&gt;
+            &lt;i class=&quot;fa fa-circle-thin fa-stack-2x&quot;&gt;&lt;/i&gt;
+            &lt;i class=&quot;fa fa-angle-down fa-stack-1x&quot;&gt;&lt;/i&gt;
+        &lt;/span&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;credits&quot;&gt;
+    &lt;a href=&quot;https://www.flickr.com/photos/maximeraphael/11344906594&quot;&gt;Dôme de La Grave - Toulouse&lt;/a&gt;
+    par &lt;a href=&quot;https://www.flickr.com/people/maximeraphael/&quot;&gt;Maxime Raphael&lt;/a&gt; sous license &lt;a href=&quot;http://creativecommons.org/licenses/by/2.0/&quot;&gt;CC BY&lt;/a&gt;
+&lt;/div&gt;</content><author><name>Julien Giffard</name></author><category term="sections" /><summary type="html">Julien Giffard | Développeur Web Fullstack sur Toulouse Expérience significative en Javascript Dôme de La Grave - Toulouse par Maxime Raphael sous license CC BY</summary></entry></feed>

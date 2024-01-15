@@ -1,12 +1,13 @@
 # Site settings
 title: Julien Giffard
 email: julien.giffard@gmail.com
+domain: juliengiffard.com
+url: https://juliengiffard.com
 description: "Développeur Web Fullstack sur Toulouse"
 author: "Julien Giffard"
 headTitle: "Julien Giffard : Développeur Fullstack sur Toulouse"
 metaDescription: "Découvrez mon CV de développeur Javascript full-stack sur Toulouse, Haute-Garonne (31)."
 baseurl: ""
-url: ""
 # Build settings
 markdown: kramdown
 permalink: pretty
