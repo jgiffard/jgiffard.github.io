@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-01-14T20:47:52+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Julien Giffard</title><subtitle>Développeur Web Fullstack sur Toulouse</subtitle><author><name>Julien Giffard</name></author><entry><title type="html">Contact</title><link href="http://localhost:4000/0005/01/01/Contact/" rel="alternate" type="text/html" title="Contact" /><published>0005-01-01T00:00:00+01:00</published><updated>0005-01-01T00:00:00+01:00</updated><id>http://localhost:4000/0005/01/01/Contact</id><content type="html" xml:base="http://localhost:4000/0005/01/01/Contact/">&lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-01-15T18:10:43+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Julien Giffard</title><subtitle>Développeur Javascript Fullstack</subtitle><author><name>Julien Giffard</name></author><entry><title type="html">Contact</title><link href="http://localhost:4000/0005/01/01/Contact/" rel="alternate" type="text/html" title="Contact" /><published>0005-01-01T00:00:00+01:00</published><updated>0005-01-01T00:00:00+01:00</updated><id>http://localhost:4000/0005/01/01/Contact</id><content type="html" xml:base="http://localhost:4000/0005/01/01/Contact/">&lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
     &lt;h1&gt;Contact&lt;/h1&gt;
 &lt;/div&gt;
 &lt;div class=&quot;col-sm-5 col-sm-offset-1 &quot;&gt;
@@ -11,8 +11,8 @@
     &lt;a class=&quot;icon white&quot; href=&quot;https://github.com/jgiffard&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-github  fa-3x&quot;&gt;&lt;/i&gt;&lt;/a&gt;
 &lt;/div&gt;
 &lt;div class=&quot;col-sm-10 col-sm-offset-1 copyright&quot;&gt;
-    Copyright © 2014 - 2020 Julien Giffard
-&lt;/div&gt;</content><author><name>Julien Giffard</name></author><category term="sections" /><summary type="html">Contact julien.giffard@gmail.com Toulouse Copyright © 2014 - 2020 Julien Giffard</summary></entry><entry><title type="html">Formation</title><link href="http://localhost:4000/0004/01/01/Formation/" rel="alternate" type="text/html" title="Formation" /><published>0004-01-01T00:00:00+01:00</published><updated>0004-01-01T00:00:00+01:00</updated><id>http://localhost:4000/0004/01/01/Formation</id><content type="html" xml:base="http://localhost:4000/0004/01/01/Formation/">&lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+    Copyright © 2014 - 2024 Julien Giffard
+&lt;/div&gt;</content><author><name>Julien Giffard</name></author><category term="sections" /><summary type="html">Contact julien.giffard@gmail.com Toulouse Copyright © 2014 - 2024 Julien Giffard</summary></entry><entry><title type="html">Formation</title><link href="http://localhost:4000/0004/01/01/Formation/" rel="alternate" type="text/html" title="Formation" /><published>0004-01-01T00:00:00+01:00</published><updated>0004-01-01T00:00:00+01:00</updated><id>http://localhost:4000/0004/01/01/Formation</id><content type="html" xml:base="http://localhost:4000/0004/01/01/Formation/">&lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
     &lt;h1&gt;Formation&lt;/h1&gt;
     &lt;ul class=&quot;timeline&quot;&gt;
         
@@ -376,21 +376,21 @@
         &lt;small&gt;&lt;i&gt;Niveau scolaire&lt;/i&gt;&lt;/small&gt;
     &lt;/div&gt;
 &lt;/div&gt;</content><author><name>Julien Giffard</name></author><category term="sections" /><summary type="html">Compétences Programmation Javascript 85% Complete HTML 100% Complete CSS 100% Complete PHP 65% Complete C# 60% Complete Asp.net 80% Complete Powershell 95% Complete Java 65% Complete EDI et logiciels PHPStorm 90% Complete Node.js 85% Complete Eclipse 75% Complete VisualStudio 70% Complete NetBeans 65% Complete Brackets 100% Complete Powershell IDE 100% Complete</summary></entry><entry><title type="html">Présentation</title><link href="http://localhost:4000/0002/01/01/Pr%C3%A9sentation/" rel="alternate" type="text/html" title="Présentation" /><published>0002-01-01T00:00:00+01:00</published><updated>0002-01-01T00:00:00+01:00</updated><id>http://localhost:4000/0002/01/01/Pr%C3%A9sentation</id><content type="html" xml:base="http://localhost:4000/0002/01/01/Pr%C3%A9sentation/">&lt;div class=&quot;col-sm-4 col-sm-offset-1 imgprofil&quot;&gt;
-    &lt;img src=&quot;images/julien-giffard-400x400.png&quot; class=&quot;img-circle img-responsive&quot; width=&quot;250&quot; height=&quot;250&quot; alt=&quot;Photo de profil - Julien Giffard&quot;/&gt;
+    &lt;img src=&quot;images/julien-giffard.jpg&quot; class=&quot;img-circle img-responsive&quot; width=&quot;250&quot; height=&quot;250&quot; alt=&quot;Photo de profil - Julien Giffard&quot;/&gt;
 &lt;/div&gt;
 &lt;div class=&quot;col-sm-6 presentation&quot;&gt;   
     &lt;h4&gt;Bonjour,&lt;/h4&gt;
     &lt;p&gt;
-        je suis Julien Giffard, diplômé d&apos;école d&apos;ingénieur en informatique. Riche de plus de 6 années d&apos;expérience, je suis actuellement développeur Javascript/Node.js à Toulouse.
+        je suis Julien Giffard, diplômé d&apos;école d&apos;ingénieur en informatique. Riche de plus de 9 années d&apos;expérience, je suis actuellement développeur Javascript/Node.js à Toulouse.
     &lt;/p&gt;
     &lt;div class=&quot;icon-group&quot;&gt; 
         &lt;a class=&quot;icon dark-grey&quot; href=&quot;/#contact&quot;&gt;&lt;i class=&quot;fa fa-envelope-o fa-3x dark-grey&quot;&gt;&lt;/i&gt;&lt;br/&gt;Contact&lt;/a&gt;
 &lt;!--        &lt;div class=&quot;fb-like icon&quot; data-href=&quot;http://www.juliengiffard.com/&quot; data-width=&quot;50&quot; data-layout=&quot;box_count&quot; data-action=&quot;recommend&quot; data-show-faces=&quot;true&quot; data-share=&quot;true&quot;&gt;&lt;/div&gt;--&gt;
     &lt;/div&gt;
-&lt;/div&gt;</content><author><name>Julien Giffard</name></author><category term="sections" /><summary type="html">Bonjour, je suis Julien Giffard, diplômé d&apos;école d&apos;ingénieur en informatique. Riche de plus de 6 années d&apos;expérience, je suis actuellement développeur Javascript/Node.js à Toulouse. Contact</summary></entry><entry><title type="html">Accueil</title><link href="http://localhost:4000/0001/01/01/Accueil/" rel="alternate" type="text/html" title="Accueil" /><published>0001-01-01T00:00:00+01:00</published><updated>0001-01-01T00:00:00+01:00</updated><id>http://localhost:4000/0001/01/01/Accueil</id><content type="html" xml:base="http://localhost:4000/0001/01/01/Accueil/">&lt;div class=&quot;titlecontainer&quot;&gt;
+&lt;/div&gt;</content><author><name>Julien Giffard</name></author><category term="sections" /><summary type="html">Bonjour, je suis Julien Giffard, diplômé d&apos;école d&apos;ingénieur en informatique. Riche de plus de 9 années d&apos;expérience, je suis actuellement développeur Javascript/Node.js à Toulouse. Contact</summary></entry><entry><title type="html">Accueil</title><link href="http://localhost:4000/0001/01/01/Accueil/" rel="alternate" type="text/html" title="Accueil" /><published>0001-01-01T00:00:00+01:00</published><updated>0001-01-01T00:00:00+01:00</updated><id>http://localhost:4000/0001/01/01/Accueil</id><content type="html" xml:base="http://localhost:4000/0001/01/01/Accueil/">&lt;div class=&quot;titlecontainer&quot;&gt;
     &lt;div class=&quot;titlebox&quot;&gt;
-        &lt;h1 class=&quot;title&quot;&gt;&lt;span class=&quot;blue&quot;&gt;Julien Giffard&lt;/span&gt; | Développeur Web Fullstack sur Toulouse&lt;/h1&gt;
-        &lt;h1 class=&quot;subtitle&quot;&gt;Expérience significative en Javascript&lt;/h1&gt; 
+        &lt;h1 class=&quot;title&quot;&gt;&lt;span class=&quot;blue&quot;&gt;Julien Giffard&lt;/span&gt; | Développeur Javascript Fullstack&lt;/h1&gt;
+        &lt;h1 class=&quot;subtitle&quot;&gt;à Toulouse (31)&lt;/h1&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 &lt;div id=&quot;arrow&quot;&gt;
@@ -404,4 +404,4 @@
 &lt;div class=&quot;credits&quot;&gt;
     &lt;a href=&quot;https://www.flickr.com/photos/maximeraphael/11344906594&quot;&gt;Dôme de La Grave - Toulouse&lt;/a&gt;
     par &lt;a href=&quot;https://www.flickr.com/people/maximeraphael/&quot;&gt;Maxime Raphael&lt;/a&gt; sous license &lt;a href=&quot;http://creativecommons.org/licenses/by/2.0/&quot;&gt;CC BY&lt;/a&gt;
-&lt;/div&gt;</content><author><name>Julien Giffard</name></author><category term="sections" /><summary type="html">Julien Giffard | Développeur Web Fullstack sur Toulouse Expérience significative en Javascript Dôme de La Grave - Toulouse par Maxime Raphael sous license CC BY</summary></entry></feed>
+&lt;/div&gt;</content><author><name>Julien Giffard</name></author><category term="sections" /><summary type="html">Julien Giffard | Développeur Javascript Fullstack à Toulouse (31) Dôme de La Grave - Toulouse par Maxime Raphael sous license CC BY</summary></entry></feed>
