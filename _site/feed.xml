@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-01-15T18:10:43+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Julien Giffard</title><subtitle>Développeur Javascript Fullstack</subtitle><author><name>Julien Giffard</name></author><entry><title type="html">Contact</title><link href="http://localhost:4000/0005/01/01/Contact/" rel="alternate" type="text/html" title="Contact" /><published>0005-01-01T00:00:00+01:00</published><updated>0005-01-01T00:00:00+01:00</updated><id>http://localhost:4000/0005/01/01/Contact</id><content type="html" xml:base="http://localhost:4000/0005/01/01/Contact/">&lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-01-19T18:05:57+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Julien Giffard</title><subtitle>Développeur Javascript Fullstack</subtitle><author><name>Julien Giffard</name></author><entry><title type="html">Contact</title><link href="http://localhost:4000/0005/01/01/Contact/" rel="alternate" type="text/html" title="Contact" /><published>0005-01-01T00:00:00+01:00</published><updated>0005-01-01T00:00:00+01:00</updated><id>http://localhost:4000/0005/01/01/Contact</id><content type="html" xml:base="http://localhost:4000/0005/01/01/Contact/">&lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
     &lt;h1&gt;Contact&lt;/h1&gt;
 &lt;/div&gt;
 &lt;div class=&quot;col-sm-5 col-sm-offset-1 &quot;&gt;
@@ -300,9 +300,9 @@
 &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
     &lt;h3&gt;Autres&lt;/h3&gt;
     
-    &lt;div class=&quot;tag&quot;&gt;Angular.js&lt;/div&gt;
+    &lt;div class=&quot;tag&quot;&gt;Angular&lt;/div&gt;
     
-    &lt;div class=&quot;tag&quot;&gt;Angular 2+&lt;/div&gt;
+    &lt;div class=&quot;tag&quot;&gt;Next.js&lt;/div&gt;
     
     &lt;div class=&quot;tag&quot;&gt;Docker&lt;/div&gt;
     
@@ -310,43 +310,13 @@
     
     &lt;div class=&quot;tag&quot;&gt;MongoDB&lt;/div&gt;
     
-    &lt;div class=&quot;tag&quot;&gt;Zend Framework&lt;/div&gt;
-    
-    &lt;div class=&quot;tag&quot;&gt;JQuery&lt;/div&gt;
+    &lt;div class=&quot;tag&quot;&gt;AWS&lt;/div&gt;
     
     &lt;div class=&quot;tag&quot;&gt;Bootstrap&lt;/div&gt;
     
-    &lt;div class=&quot;tag&quot;&gt;Grunt.js&lt;/div&gt;
-    
-    &lt;div class=&quot;tag&quot;&gt;Gulp&lt;/div&gt;
-    
-    &lt;div class=&quot;tag&quot;&gt;Intern&lt;/div&gt;
-    
     &lt;div class=&quot;tag&quot;&gt;Express.js&lt;/div&gt;
     
-    &lt;div class=&quot;tag&quot;&gt;Charts.js&lt;/div&gt;
-    
-    &lt;div class=&quot;tag&quot;&gt;Q (kriskowal)&lt;/div&gt;
-    
     &lt;div class=&quot;tag&quot;&gt;Jekyll&lt;/div&gt;
-    
-    &lt;div class=&quot;tag&quot;&gt;Dojo&lt;/div&gt;
-    
-    &lt;div class=&quot;tag&quot;&gt;AMD&lt;/div&gt;
-    
-    &lt;div class=&quot;tag&quot;&gt;Android SDK&lt;/div&gt;
-    
-    &lt;div class=&quot;tag&quot;&gt;Hudson/Jenkins&lt;/div&gt;
-    
-    &lt;div class=&quot;tag&quot;&gt;Selenium&lt;/div&gt;
-    
-    &lt;div class=&quot;tag&quot;&gt;JUnit&lt;/div&gt;
-    
-    &lt;div class=&quot;tag&quot;&gt;Git&lt;/div&gt;
-    
-    &lt;div class=&quot;tag&quot;&gt;SVN&lt;/div&gt;
-    
-    &lt;div class=&quot;tag&quot;&gt;SQL&lt;/div&gt;
     
 &lt;/div&gt;
 &lt;div class=&quot;col-sm-10 col-sm-offset-1&quot;&gt;
@@ -385,7 +355,6 @@
     &lt;/p&gt;
     &lt;div class=&quot;icon-group&quot;&gt; 
         &lt;a class=&quot;icon dark-grey&quot; href=&quot;/#contact&quot;&gt;&lt;i class=&quot;fa fa-envelope-o fa-3x dark-grey&quot;&gt;&lt;/i&gt;&lt;br/&gt;Contact&lt;/a&gt;
-&lt;!--        &lt;div class=&quot;fb-like icon&quot; data-href=&quot;http://www.juliengiffard.com/&quot; data-width=&quot;50&quot; data-layout=&quot;box_count&quot; data-action=&quot;recommend&quot; data-show-faces=&quot;true&quot; data-share=&quot;true&quot;&gt;&lt;/div&gt;--&gt;
     &lt;/div&gt;
 &lt;/div&gt;</content><author><name>Julien Giffard</name></author><category term="sections" /><summary type="html">Bonjour, je suis Julien Giffard, diplômé d&apos;école d&apos;ingénieur en informatique. Riche de plus de 9 années d&apos;expérience, je suis actuellement développeur Javascript/Node.js à Toulouse. Contact</summary></entry><entry><title type="html">Accueil</title><link href="http://localhost:4000/0001/01/01/Accueil/" rel="alternate" type="text/html" title="Accueil" /><published>0001-01-01T00:00:00+01:00</published><updated>0001-01-01T00:00:00+01:00</updated><id>http://localhost:4000/0001/01/01/Accueil</id><content type="html" xml:base="http://localhost:4000/0001/01/01/Accueil/">&lt;div class=&quot;titlecontainer&quot;&gt;
     &lt;div class=&quot;titlebox&quot;&gt;
